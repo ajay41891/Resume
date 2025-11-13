@@ -4,63 +4,63 @@
 
 ## 🎯 About Me
 
-Dynamic Assistant Manager (Operations & Data) with a passion for optimizing workflows, leveraging data for results, and leading high-performing teams. I specialize in creating efficient processes, managing operations, and enabling business growth.
+Accomplished Assistant Manager with a strong track record in operations and project management. Known for optimizing workflows, leading teams, and delivering measurable business results in dynamic and fast-paced environments. My focus: operational efficiency, collaborative team culture, and high-quality outcomes.
 
 ---
 
 ## 🚀 Skills & Tools
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MS Office](https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Tally ERP 9](https://img.shields.io/badge/Tally_ERP_9-FF6F00?style=for-the-badge&logo=tally&logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM-0052CC?style=for-the-badge&logoColor=white)
-<br>
-**Business Ops, Analytics, Vendor Management, Team Leadership, Process Improvement, Compliance, Reporting**
 
----
-
-## 🏆 Career Highlights
-
-- Led and developed teams for streamlined operations in finance and business services
-- Reduced costs by optimizing vendor and process management
-- Improved reporting and compliance through strong data handling and communication skills
-- Introduced new technologies to elevate productivity and efficiency
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay41891&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" />
-</p>
+- Business Operations & Project Management  
+- Advanced Excel & Data Analytics  
+- Team Leadership & Training  
+- Vendor Management & Negotiation  
+- Compliance & Reporting  
+- Cost Control & Resource Optimization  
 
 ---
 
 ## 🏢 Professional Experience
 
-**Assistant Manager, Operations**  
-- Drove operational excellence and team performance for continuous improvement  
-- Enabled smart decision-making with accurate data insights
+**Assistant Manager – Operations**  
+*Strong business acumen with proven ability to transform operations, lead diverse teams, and drive measurable results.*
+
+- Led and supervised a high-functioning team to optimize operational efficiency, cost management, and compliance.
+- Developed and implemented workflow strategies, reducing redundancies and improving performance.
+- Handled vendor relationships, negotiations, and timely procurement to support organizational goals.
+- Managed inventory, monitored expenses, and ensured accurate, on-time shipments and deliveries.
+- Implemented new technologies and process automation to improve team productivity and efficiency.
+- Fostered a collaborative and performance-driven work environment, supporting hiring, training, and performance management.
+- Ensured compliance with health, safety, and operational standards, driving a culture of accountability.
+- Collaborated cross-functionally to improve customer satisfaction, streamline data reporting, and support continuous improvement.
+
+---
+
+## 🏆 Achievements
+
+- Recognized for innovative process improvements and successful cost-saving initiatives.
+- Successfully led company-wide operational and project management activities.
+- Consistent record of meeting or exceeding operational and financial targets.
+- Played key roles in vendor negotiations and team skill development programs.
 
 ---
 
 ## 🎓 Education
 
-**MBA in Finance** — Jaipur National University
+**MBA in Finance**  
+Jaipur National University  
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/ajay-sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:ajay41891@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajay41891@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajay-sharma)
+[![Email](https://img.shields.io/badge/Email-ajay41891@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ajay41891@gmail.com)
 
 ---
 
-*Striving for operational excellence, learning every day, and always open to connect!*
+*Striving for continuous improvement and operational excellence. Let's connect and collaborate!*
