@@ -26,7 +26,7 @@ Experienced Assistant Manager with a robust background in data analysis, project
 **Sr. Operations Executive**  
 *Strong business acumen with proven ability to transform operations, lead diverse teams, and deliver measurable results in cost-efficient and compliant ways.*
 
-- Led a team of 12+ in a finance and operations environment; enabled a balanced focus on efficiency and goal delivery.
+- Led a team of 12+ in a operations environment; enabled a balanced focus on efficiency and goal delivery.
 - Developed and implemented strategies to optimize workflows and reduce costs.
 - Monitored inventory levels, controlled expenses, and ensured timely/accurate shipments.
 - Fostered a high-performance culture by hiring, training, and performance managing team members.
