@@ -1,58 +1,42 @@
-# Hi, I'm Ajay Sharma 👋
+![Ajay Sharma - Profile Photo](https://your-image-link-here.jpg)
 
-**Data and Operations Specialist | Assistant Manager**  
-Dwaraka, Sec-14, New Delhi | [LinkedIn](https://linkedin.com/in/ajay-sharma) | ajay41891@gmail.com
-
----
-
-## 👨‍💻 About Me
-Experienced Assistant Manager with a robust background in data analysis, project operations, and team leadership. I excel in optimizing workflows, managing vendor relationships, and ensuring compliance with industry standards. Known for my attention to accuracy, efficiency, and commitment to delivering measurable results in fast-paced environments.
+# 👋 Hi, I'm Ajay Sharma
 
 ---
 
-## 🛠 Skills & Tools
+## 🎯 About Me
 
-- **Business Operations:** Team leadership, vendor management, cost control  
-- **Data Analytics:** Excel (advanced), data entry, reporting, pivot tables  
-- **Process Improvement:** Workflow optimization, compliance, audit operations  
-- **Technical:** M365, CRM tools, Tally ERP 9  
-- **Soft Skills:** Strong communication, collaboration, training, new technology adoption  
+Dynamic Assistant Manager with strong expertise in data operations, business process optimization, and team leadership. Adept at driving measurable improvements and effective cross-functional collaboration.
+
+---
+
+## 🚀 Skills
+
+- Business Operations, Project Management
+- Advanced Excel, Data Analytics
+- Team Leadership, Training, Vendor Management
+
+---
+
+## 📊 Career Highlights
+
+- Led a team to streamline operations and reduce costs
+- Implemented new tech to improve efficiency
+- Ensured best-in-class safety and compliance
 
 ---
 
 ## 🏢 Professional Experience
 
-**Assistant Manager – Operations**  
-**Sr. Operations Executive**  
-*Strong business acumen with proven ability to transform operations, lead diverse teams, and deliver measurable results in cost-efficient and compliant ways.*
-
-- Led a team of 12+ in a operations environment; enabled a balanced focus on efficiency and goal delivery.
-- Developed and implemented strategies to optimize workflows and reduce costs.
-- Monitored inventory levels, controlled expenses, and ensured timely/accurate shipments.
-- Fostered a high-performance culture by hiring, training, and performance managing team members.
-- Enhanced team productivity by introducing new technologies and encouraging continuous skill upgradation.
-- Ensured compliance with safety and health protocols.
-- Identified & drove process improvements across operational and financial data flows.
-- Collaborated with internal departments for continuous improvement and customer satisfaction.
+**Assistant Manager, Operations**  
+> Drove operational excellence and team performance for continuous growth.
 
 ---
 
-## 🎓 Education
+## 📫 Contact
 
-**Jaipur National University**  
-- MBA in Finance  
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/ajay-sharma)
-- Email: ajay41891@gmail.com
+[LinkedIn](https://linkedin.com/in/ajay-sharma) | ajay41891@gmail.com
 
 ---
 
-*Always eager to connect, collaborate, and grow!*
-
-<!--
-Badges, project stats, and GitHub activity graph can be added here later if you wish.
--->
+<!-- Optionally, you can add badges or GitHub stats below -->
