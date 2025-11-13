@@ -4,7 +4,39 @@
 
 ## 🎯 About Me
 
-Accomplished Assistant Manager with a strong track record in operations and project management. Known for optimizing workflows, leading teams, and delivering measurable business results in dynamic and fast-paced environments. My focus: operational efficiency, collaborative team culture, and high-quality outcomes.
+Experienced Assistant Manager with expertise in business operations, finance, and process optimization. Skilled at team leadership, vendor management, and using data-driven insights to drive efficiency, quality, and cost savings. Detail-oriented, proactive, and committed to continuous improvement.
+
+---
+
+## 🏢 Professional Experience
+
+### Assistant Manager – Operations  
+**DCG Tech Limited**  
+_August 2020 – Present_  
+- Lead and mentor high-performing teams to achieve business and operational goals.
+- Develop and implement processes for cost optimization, resource utilization, and compliance.
+- Manage vendor relations, procurement, and timely deliveries.
+- Drive digital initiatives, automation, and streamline reporting.
+- Enforce organizational standards and create a collaborative work environment.
+
+---
+
+### Senior Operations Executive  
+**ITC Limited**  
+_March 2018 – July 2020_  
+- Supported leadership in process optimization, logistics, and audit readiness.
+- Coordinated with vendors and ensured accurate inventory management.
+- Maintained data records, monitored expenses, and enforced safety protocols.
+- Facilitated cross-functional collaboration and continuous workflow improvement.
+
+---
+
+### Accounts Executive  
+**Arun Kishore & Co.**  
+_July 2016 – February 2018_  
+- Managed bookkeeping, ledger maintenance, and reconciliations.
+- Processed invoices and payments, supporting accurate financial reporting.
+- Liaised with vendors and clients for timely settlements.
 
 ---
 
@@ -16,36 +48,19 @@ Accomplished Assistant Manager with a strong track record in operations and proj
 ![CRM](https://img.shields.io/badge/CRM-0052CC?style=for-the-badge&logoColor=white)
 
 - Business Operations & Project Management  
-- Advanced Excel & Data Analytics  
+- Financial & Data Analysis  
 - Team Leadership & Training  
-- Vendor Management & Negotiation  
-- Compliance & Reporting  
-- Cost Control & Resource Optimization  
-
----
-
-## 🏢 Professional Experience
-
-**Assistant Manager – Operations**  
-*Strong business acumen with proven ability to transform operations, lead diverse teams, and drive measurable results.*
-
-- Led and supervised a high-functioning team to optimize operational efficiency, cost management, and compliance.
-- Developed and implemented workflow strategies, reducing redundancies and improving performance.
-- Handled vendor relationships, negotiations, and timely procurement to support organizational goals.
-- Managed inventory, monitored expenses, and ensured accurate, on-time shipments and deliveries.
-- Implemented new technologies and process automation to improve team productivity and efficiency.
-- Fostered a collaborative and performance-driven work environment, supporting hiring, training, and performance management.
-- Ensured compliance with health, safety, and operational standards, driving a culture of accountability.
-- Collaborated cross-functionally to improve customer satisfaction, streamline data reporting, and support continuous improvement.
+- Process Automation  
+- Vendor Management  
+- Reporting & Compliance
 
 ---
 
 ## 🏆 Achievements
 
-- Recognized for innovative process improvements and successful cost-saving initiatives.
-- Successfully led company-wide operational and project management activities.
-- Consistent record of meeting or exceeding operational and financial targets.
-- Played key roles in vendor negotiations and team skill development programs.
+- Recognized for implementing process improvements and achieving significant cost reductions.
+- Successfully led multi-departmental project initiatives and digital transformations.
+- Consistently met and exceeded operational KPIs and reporting accuracy targets.
 
 ---
 
@@ -53,6 +68,7 @@ Accomplished Assistant Manager with a strong track record in operations and proj
 
 **MBA in Finance**  
 Jaipur National University  
+_2020 – 2022_
 
 ---
 
@@ -63,4 +79,4 @@ Jaipur National University
 
 ---
 
-*Striving for continuous improvement and operational excellence. Let's connect and collaborate!*
+*Driven by a commitment to operational excellence and continuous learning. Always open to new opportunities and connections!*
